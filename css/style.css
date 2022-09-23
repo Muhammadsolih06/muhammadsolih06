@@ -40,7 +40,7 @@
 }
  #showcase {
     height: 60vh;
-    background-image: url(./showcase.jpg);
+    background-image: url(../showcase.jpg);
     background-size: cover;
     background-position: center;
  }
